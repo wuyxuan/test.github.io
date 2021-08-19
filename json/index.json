@@ -16,17 +16,17 @@
     }
   ],
   "secondList": [{
-      "image": "https://wuyxuan.github.io/test.github.io/img/taro-vue/indexIcon/taroLogo.png",
+      "image": "https://wuyxuan.github.io/test.github.io/img/taro-vue/indexIcon/taro-logo.png",
       "value": "taro",
       "href": "https://taro-docs.jd.com/taro/docs/README"
     },
     {
-      "image": "https://wuyxuan.github.io/test.github.io/img/taro-vue/indexIcon/vueLogo.png",
+      "image": "https://wuyxuan.github.io/test.github.io/img/taro-vue/indexIcon/vue-logo.png",
       "value": "vue",
       "href": "https://cn.vuejs.org"
     },
     {
-      "image": "https://wuyxuan.github.io/test.github.io/img/taro-vue/indexIcon/taroLogo.png",
+      "image": "https://wuyxuan.github.io/test.github.io/img/taro-vue/indexIcon/taro-logo.png",
       "value": "taro ui",
       "href": "https://taro-ui.jd.com"
     }
