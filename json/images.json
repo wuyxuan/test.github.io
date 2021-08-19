@@ -1,0 +1,47 @@
+{
+  "imgList": [{
+      "imgSrc": "https://wuyxuan.github.io/test.github.io/img/taro-vue/img/apple.png",
+      "alt": "苹果"
+    },
+    {
+      "imgSrc": "https://wuyxuan.github.io/test.github.io/img/taro-vue/img/avocado.png",
+      "alt": "牛油果"
+    },
+    {
+      "imgSrc": "https://wuyxuan.github.io/test.github.io/img/taro-vue/img/cantaloupe.png",
+      "alt": "哈密瓜"
+    },
+    {
+      "imgSrc": "https://wuyxuan.github.io/test.github.io/img/taro-vue/img/kiwi.png",
+      "alt": "猕猴桃"
+    },
+    {
+      "imgSrc": "https://wuyxuan.github.io/test.github.io/img/taro-vue/img/mango.png",
+      "alt": "芒果"
+    },
+    {
+      "imgSrc": "https://wuyxuan.github.io/test.github.io/img/taro-vue/img/mangosteen.png",
+      "alt": "山竹"
+    },
+    {
+      "imgSrc": "https://wuyxuan.github.io/test.github.io/img/taro-vue/img/orange.png",
+      "alt": "橙子"
+    },
+    {
+      "imgSrc": "https://wuyxuan.github.io/test.github.io/img/taro-vue/img/passionFruit.png",
+      "alt": "百香果"
+    },
+    {
+      "imgSrc": "https://wuyxuan.github.io/test.github.io/img/taro-vue/img/pitaya.png",
+      "alt": "火龙果"
+    },
+    {
+      "imgSrc": "https://wuyxuan.github.io/test.github.io/img/taro-vue/img/strawberry.png",
+      "alt": "草莓"
+    },
+    {
+      "imgSrc": "https://wuyxuan.github.io/test.github.io/img/taro-vue/img/watermelon.png",
+      "alt": "西瓜"
+    }
+  ]
+}
