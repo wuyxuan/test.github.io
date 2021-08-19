@@ -1,16 +1,16 @@
 {
   "mainList": [{
-      "image": "cangshu",
+      "image": "https://wuyxuan.github.io/test.github.io/img/taro-vue/indexIcon/cangshu.png",
       "value": "文章",
       "href": "/pages/article/article"
     },
     {
-      "image": "huli",
+      "image": "https://wuyxuan.github.io/test.github.io/img/taro-vue/indexIcon/huli.png",
       "value": "图片",
       "href": "/pages/images/images"
     },
     {
-      "image": "jumao",
+      "image": "https://wuyxuan.github.io/test.github.io/img/taro-vue/indexIcon/jumao.png",
       "value": "推荐",
       "href": "/pages/recommend/recommend"
     }
