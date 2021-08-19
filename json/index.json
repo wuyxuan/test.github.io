@@ -1,0 +1,34 @@
+{
+  "mainList": [{
+      "image": "cangshu",
+      "value": "文章",
+      "href": "/pages/article/article"
+    },
+    {
+      "image": "huli",
+      "value": "图片",
+      "href": "/pages/images/images"
+    },
+    {
+      "image": "jumao",
+      "value": "推荐",
+      "href": "/pages/recommend/recommend"
+    }
+  ],
+  "secondList": [{
+      "image": "taroLogo",
+      "value": "taro",
+      "href": "https://taro-docs.jd.com/taro/docs/README"
+    },
+    {
+      "image": "vueLogo",
+      "value": "vue",
+      "href": "https://cn.vuejs.org"
+    },
+    {
+      "image": "taroLogo",
+      "value": "taro ui",
+      "href": "https://taro-ui.jd.com"
+    }
+  ]
+}
